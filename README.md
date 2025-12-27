@@ -1,3 +1,3 @@
--> CHANGELOG BEFINDET SICH IN DER APP<br>
--> VERSION: 1.14 (GOLD)<br>
--> VOR DER INSTALLIEREN BITTE SCREENSHOT DER ALTEN VERSION SICHERN UND DANN INSTALLIEREN
+-> Diese App ist ein privates Hobby Projekt<br>
+-> &copy; 2025 MonetFlow<br>
+-> Version v1.14
